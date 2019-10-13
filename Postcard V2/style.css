@@ -1,0 +1,53 @@
+body{
+    background: black;
+}
+.postcard{
+    left:35%;
+}
+.postcard{
+    position: absolute;
+    background: white;
+    width: 480px;
+    height: 280px;
+    top:35%;
+    padding:7px;
+}
+img{
+    position: absolute;
+    width: auto;
+    height: 50px;
+    right: 10px;
+    top: 10px;
+}
+.main-content{
+    position: absolute;
+    top: 50px;
+    bottom: 50px;
+    width: 480px;
+    padding-top: 20px;
+}
+.right{
+    width: 200px;
+    display: block;
+    float:right;
+    padding: 5px;
+
+}
+input{
+    padding:5px;
+    border: none;
+    border-bottom: 2px solid black;
+    margin: 6px;
+    width: 150px;
+}
+.left{
+    position: absolute;
+    text-align: left;
+    width: 250px;
+
+}
+.footer{
+    position:absolute;
+    top: 85%;
+    right: 38%;
+}
