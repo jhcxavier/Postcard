@@ -2,7 +2,7 @@ body{
     background: black;
 }
 .postcard{
-    left:35%;
+    left:31%;
 }
 .postcard{
     position: absolute;
@@ -30,7 +30,7 @@ img{
     width: 200px;
     display: block;
     padding: 5px;
-
+    float: right;
 }
 input{
     padding:5px;
