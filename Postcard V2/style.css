@@ -3,8 +3,6 @@ body{
 }
 .postcard{
     left:31%;
-}
-.postcard{
     position: absolute;
     background: white;
     width: 480px;
