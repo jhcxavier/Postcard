@@ -48,3 +48,6 @@ input{
     top: 85%;
     right: 38%;
 }
+button{
+    background-color: gray;
+}
