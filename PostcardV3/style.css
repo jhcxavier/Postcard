@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.content{
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 30%;
+    height: 37%;
+    margin: auto;
+}
+.left{
+    position: absolute;
+    left: 0;
+    width: 50%;
+    margin:2%;
+}
+.right{
+    position:absolute;
+    left:55%;
+    width:40%;
+    top:23%;
+}
+button{
+    position:absolute;
+    bottom:5%;
+    left: 50%;
+    margin-left: -50px;
+    background-color: gray;
+    border:none;
+}
+img{
+    position:absolute;
+    width: 70px;
+    height: auto;
+     top:1%;
+right: 1%; 
+}
+input{
+    margin:10px;
+    width: 70%;
+    height: 15px;
+    border:none;
+    border-bottom: 1px solid gray;
+}
+h2{
+    margin-left: 3%;
+}
