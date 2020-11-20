@@ -1,9 +1,18 @@
-body {background: black;}
-.postcard{background: white; width: 500px; height: 280px; margin: auto; position: absolute; top: 50%; left: 50%;
- transform:translate(-50%, -50%);padding:15px; font-family: 'Indie Flower', cursive;
-text-align: center;
+body {
+    background: black;
 }
-
+.postcard{
+    background: white; 
+    width: 500px; height: 
+    280px; margin: auto; 
+    position: absolute; 
+    top: 50%; 
+    left: 50%;
+    transform:translate(-50%, -50%);
+    padding:15px; 
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
 input{
 	position: relative;
 	top:10px;
@@ -26,8 +35,6 @@ input{
 	float:left;
 	width: 50%;
 }
-
-
 .right-side input{
 	float:left;
 	display: block;
@@ -42,19 +49,16 @@ div img{
 	top:10px;
 }
 div button{
-
-  bottom: 10px;
-  width: 50%;
- bottom: 1px black;
-  background-color: #a3a5a8;
-  width: 150px;
-  text-align: center;
-  margin:0 auto;
-  border-radius: 2px;
-  font-family: 'Indie Flower', cursive, bold;
-  text-decoration: bold;
-
-
+  /* bottom: 10px; */
+    width: 50%;
+    bottom: 1px black;
+    background-color: #a3a5a8;
+    /* width: 150px; */
+    text-align: center;
+    margin:0 auto;
+    border-radius: 2px;
+    font-family: 'Indie Flower', cursive, bold;
+    text-decoration: bold;
 }
 
 
